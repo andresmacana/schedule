@@ -1,0 +1,28 @@
+/* @media (min-width: 768px) {
+  .day-buttons.hide {
+    display: none;
+  }
+
+  .table-bordered.show {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .table-bordered {
+    display: none;
+  }
+
+  .day-buttons {
+    margin-bottom: 20px;
+  }
+} */
+
+.btn-selected {
+  background-color: red;
+  color: white;
+}
+
+.time-column {
+  width: 35%; /* Adjust this value to your preference */
+}
